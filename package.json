@@ -1,0 +1,26 @@
+{
+  "name": "webhook",
+  "version": "1.0.0",
+  "description": "A simple webhook for top.gg!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anime-Forevere/webhook.git"
+  },
+  "keywords": [
+    "webhook"
+  ],
+  "author": "Anime Forever#6606",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anime-Forevere/webhook/issues"
+  },
+  "homepage": "https://github.com/Anime-Forevere/webhook#readme",
+  "dependencies": {
+    "@top-gg/sdk": "^3.1.1",
+    "express": "^4.17.1"
+  }
+}
